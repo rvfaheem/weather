@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.background{
+  background-image: url('/src/weather.jpg');
+  height: 50rem;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  align-items: center;
+}
